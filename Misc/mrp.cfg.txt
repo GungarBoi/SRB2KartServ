@@ -1,0 +1,10 @@
+mrp_showitemslocal off
+mrp_hpmodshowhplocal off
+mrp_showhorns off
+mrp_shrinkgrow off
+mrp_spinoutshake off
+mrp_showflashtics off
+mrp_showinvis off
+mrp_friendmodshowteams off
+mrp_showdnf off
+mrp_forceoffvanillaminirank on
